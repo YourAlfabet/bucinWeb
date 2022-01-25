@@ -7,7 +7,7 @@ function getNama(){
 
 function timeoutData() {
     setTimeout(function(){
-        window.location.href = "https://api.whatsapp.com";
+        window.location.href = "wa.me/6281338125255?text=iyaa sayang";
     },82000)
 }
 
