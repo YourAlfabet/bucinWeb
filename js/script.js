@@ -7,7 +7,7 @@ function getNama(){
 
 function timeoutData() {
     setTimeout(function(){
-        window.location.href = "https://wa.me/6281338125255?text=iyaa+sayang";
+        window.location.href = "https://wa.me/6289654370466?text=iyaa+sayang";
     },82000)
 }
 
